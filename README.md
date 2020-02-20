@@ -11,6 +11,7 @@ prepare文件说明:
 [glm-stable.zip](https://glm.g-truc.net/0.9.9/index.html)  
 
 GP-GLSL文件说明:  
+[stb_image.h](https://raw.githubusercontent.com/nothings/stb/25a2596b2fee5041f8a55fd7317d0ffe90abc198/stb_image.h)
 GP-GLSL是用Visual Studio2019创建的工程  
 shaderfile文件夹内是各个章节用到的着色器文件  
 其中.vs是顶点着色器文件, .fs是片元着色器文件  
